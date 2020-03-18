@@ -1,6 +1,6 @@
 # MSA (Mobile Apartement System)
 
-This is a mobile application system project for use in apartments or something like that
+This is a mobile application system project for use in apartements or something like that
 ## Requirements
 
  - [Java JDK](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html)
